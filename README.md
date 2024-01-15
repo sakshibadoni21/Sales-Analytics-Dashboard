@@ -2,7 +2,13 @@
 
 In the context of the Superstore Sales Dashboard, the aim is to address several key challenges and opportunities. These include maximizing sales in the Office Supplies category, optimizing the approach to the home office market segment, and managing seasonality and potential declines in sales. Additionally,seeks to enhance understanding of customer purchase patterns, product performance, and profitability to drive informed decision-making and sustainable growth strategies.
 
+## Snapshorts
+
 ## Key Findings
+
+![Screenshot 2024-01-15 112328](https://github.com/sakshibadoni21/Sales-Analytics-Dashboard/assets/152711814/a53e9163-357f-4d34-ba56-7f2a39010e69)
+
+![Screenshot 2024-01-15 112959](https://github.com/sakshibadoni21/Sales-Analytics-Dashboard/assets/152711814/d310b40c-b0d1-4dc4-b335-073e17eaac4c)
 
 ## Category:
 
